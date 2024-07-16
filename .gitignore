@@ -1,2 +1,2 @@
-/node.modules
-.evi.local
+/node_modules
+.env.local
