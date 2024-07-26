@@ -1,4 +1,3 @@
-Testando featurs
-
-
-# Criando um  
+TESTANDO FEATURE
+#API_LOGIN
+KEY_LOGIN=12345432

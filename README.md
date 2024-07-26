@@ -14,4 +14,8 @@ DESCRIÇÃO DO MEU README
  Ao criarmos um projeto sempre iniciamos na BRNACH  'main'
 
 
+<<<<<<< Updated upstream
  - Voltando a branch ao estado inicial antes da alteração com o comando "GIT STASH"
+=======
+ voltando a branch ao estado antes da alteraçao
+>>>>>>> Stashed changes
