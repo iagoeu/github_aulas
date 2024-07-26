@@ -12,3 +12,5 @@ DESCRIÇÃO DO MEU README
  É uma maneira que o git disponibiliza para separar versões do projeto,gerenciar melhor o projeto
 
  Ao criarmos um projeto sempre iniciamos na BRNACH  'main'
+
+ - Para unir as branchs usa-se o comando git merge "Nome_da_branch"
