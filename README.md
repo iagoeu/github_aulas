@@ -12,3 +12,6 @@ DESCRIÇÃO DO MEU README
  É uma maneira que o git disponibiliza para separar versões do projeto,gerenciar melhor o projeto
 
  Ao criarmos um projeto sempre iniciamos na BRNACH  'main'
+
+
+ - Voltando a branch ao estado inicial antes da alteração com o comando "GIT STASH"
