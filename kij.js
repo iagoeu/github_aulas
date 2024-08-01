@@ -3,3 +3,9 @@ function nome() {
 }
 
 console.log(nome)
+
+function Sobrenome() {
+    return Sobrenome
+}
+
+console.log(nome)
